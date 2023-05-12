@@ -1,4 +1,4 @@
-# NetSat: Network Saturation Adversarial Attack1
+# NetSat: Network Saturation Adversarial Attack
 
 **NOTE:** This is a repository with methods, instructions and examples on how to use the components created for the purpose of paper **"NetSat: Network Saturation Adversarial Attack"**. We provide implementation of the vital software components and methods used in the study (**we plan to release our repository upon acceptance**). All of the methods are implemented  in such a way as to make them as flexible as possible not only for the easy reproduction of our experiments but hopefully also for other potential studies of other researchers. We made sure to add comments and guidelines on how to use our methods. Note, that we use only some tiny examplary data (that are compatible with the freely available datasets used in the study) just to show the operation od the notebooks and to make the use of our materials easy for other researchers. 
 
